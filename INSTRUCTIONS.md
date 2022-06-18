@@ -3,7 +3,7 @@
 2. Port 8989 and 5492 should be available.
 
 # Start the services
-1. Go to secure-jwt-api folder
+1. Go to root of the project
 2. docker-compose up --build
 
 #Auth headers
