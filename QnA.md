@@ -20,5 +20,7 @@ What are the security holes (if any) in your system? If there are any, how would
 > 1. it to be available to priviliged users and let support introduce it at the time of deployment.
 > 2. Or secret can also be present in the prod database so application can pick it up from there.  
 
+Also, I will look into JWT security issues and test my application against that.
+
 Do you feel that your skills were well tested?
 > Yes, Given a problem with mix of Known and Unknown domain ( security ) how fast I can solve it .
