@@ -26,3 +26,5 @@ GET http://localhost:8989/users
 
 PUT http://localhost:8989/users
 
+#NOTE
+I have added target folder in the  git repository. This helped docker image to take less time to run .
